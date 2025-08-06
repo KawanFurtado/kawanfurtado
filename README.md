@@ -28,7 +28,8 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 ### 🤖 Linguagens e Tecnologias
 
 
-
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
@@ -46,6 +47,6 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanfurtado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+ 
 
 </p>
