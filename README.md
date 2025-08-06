@@ -19,7 +19,7 @@ Me chamo kawan furtado, tenho 16 anos e sou natural do rondônia. Concluí o ens
             src="https://custom-icon-badges.demolab.com/github/stars/kawanfurtado=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/kawanfurtado?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
